@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!--Subject Name-->
+    <string name="subject">Subject Name</string>
+    <string name="country">Country</string>
+    <string name="organization">Organization</string>
+    <string name="or_unit">Organization Unit</string>
+    <string name="common_name">Common Name</string>
+    <!--Issuer Name-->
+    <string name="issuer">Issuer Name</string>
+    <string name="serial">Serial Number</string>
+    <string name="version">Version</string>
+    <string name="signature_algorithm">Signature Algorithm</string>
+    <string name="parameters">Parameters</string>
+
+    <!--Public Key Info-->
+    <string name="public_key_info">Public Key Info</string>
+    <string name="pk_algorithm">Public Key Algorithm</string>
+    <string name="pk_parameters">Parameters</string>
+    <string name="pk_public_key">Public Key</string>
+    <string name="pk_exponent">Exponent</string>
+    <string name="pk_key_size">Key Size</string>
+    <string name="pk_key_usage">Key Usage</string>
+    <string name="pk_signature">Signature</string>
+
+    <!--Extension usage-->
+    <string name="critical">Critical</string>
+    <string name="usage">Usage</string>
+
+    <!--Extension Basic Constraints-->
+    <string name="">Critical</string>
+
+    <!--Fingerprints-->
+    <string name="sha1">SHA1</string>
+    <string name="md5">MD5</string>
+</resources>
